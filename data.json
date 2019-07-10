@@ -1,0 +1,152 @@
+﻿[
+  {
+    "Brand": "Seagate",
+    "ProductName": "Backup Slim Plus 1TB",
+    "GraphicName": "SeagateSlimPlus.png",
+    "CostPrice": 84.16,
+    "MSRP": 0.00,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 10,
+    "Description": "Looking for an external portable hard drive that’s reliable, stylish, and offers massive capacity? Meet Seagate Backup Plus"
+  }
+  {
+    "Brand": "Seagate",
+    "ProductName": "Expansion 8TB",
+    "GraphicName": "SeagateExpansion.png",
+    "CostPrice": 194.99,
+    "MSRP": 0.00,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 5,
+    "Description": "The Seagate Expansion desktop drive provides extra storage for your ever-growing collection of files. Instantly add space for more files, consolidate all of your files to a single location, or free up space on your computers internal drive to help improve performance."
+  },
+  {
+    "Brand": "Seagate",
+    "ProductName": "Fast SSD 500GB",
+    "GraphicName": "SeagateFastSSD.png",
+    "CostPrice": 130.95,
+    "MSRP": 0.00,
+    "QtyOnHand": 3,
+    "QtyOnBackOrder": 20,
+    "Description": "Ready for ultra-fast on-the-go file transfers? The Seagate Fast SSD is a portable external solid state drive dishing out speeds of up to 540MB/s"
+  },
+  {
+    "Brand": "Seagate",
+    "ProductName": "Game Drive 4TB",
+    "GraphicName": "SeagateGameDrive.png",
+    "CostPrice": 160.82,
+    "MSRP": 0.00,
+    "QtyOnHand": 9,
+    "QtyOnBackOrder": 13,
+    "Description": "Don't delete games from PS4 consoles just to make room for new ones—store 100+ games with 4TB of portable hard drive storage"
+  },
+  {
+    "Brand": "Seagate",
+    "ProductName": "Backup Plus 10TB",
+    "GraphicName": "SeagateBackupPlus.png",
+    "CostPrice": 345.98,
+    "MSRP": 0.00,
+    "QtyOnHand": 1,
+    "QtyOnBackOrder": 30,
+    "Description": "Store and access content for years to come with 10TB of massive space in a USB drive"
+  },
+  {
+    "Brand": "Western Digital",
+    "ProductName": "Elements 8TB",
+    "GraphicName": "WDElements.png",
+    "CostPrice": 199.82,
+    "MSRP": 0.00,
+    "QtyOnHand": 4,
+    "QtyOnBackOrder": 10,
+    "Description": "Store and access content for years to come with 10TB of massive space in a USB drive"
+  },
+  {
+    "Brand": "Western Digital",
+    "ProductName": "My Book 8TB",
+    "GraphicName": "WDMyBook.png",
+    "CostPrice": 199.82,
+    "MSRP": 0.00,
+    "QtyOnHand": 16,
+    "QtyOnBackOrder": 30,
+    "Description": "Auto backup with included WD Backup software and Time Machine compatibility"
+  },
+  {
+    "Brand": "Western Digital",
+    "ProductName": "My Passport 2TB",
+    "GraphicName": "WDMyPassport2TB.png",
+    "CostPrice": 79.99,
+    "MSRP": 0.00,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 10,
+    "Description": "Auto backup with included WD Backup software, password protection software with hardware encryption"
+  },
+  {
+    "Brand": "Western Digital",
+    "ProductName": "My Passport 4TB Portable",
+    "GraphicName": "WDMyPassportPortable.png",
+    "CostPrice": 149.98,
+    "MSRP": 0.00,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 30,
+    "Description": "Auto backup with included WD Backup software, password protection software with hardware encryption"
+  },
+  {
+    "Brand": "Western Digital",
+    "ProductName": "My Passport 1TB",
+    "GraphicName": "WDMyPassport1TB.png",
+    "CostPrice": 71.99,
+    "MSRP": 0.00,
+    "QtyOnHand": 56,
+    "QtyOnBackOrder": 100,
+    "Description": "Auto backup with included WD Backup software, password protection software with hardware encryption"
+  },
+  {
+    "Brand": "Miscellaneous Brands",
+    "ProductName": "LaCie Rugged Mini 2TB",
+    "GraphicName": "LCRuggedMini.png",
+    "CostPrice": 147.98,
+    "MSRP": 0.00,
+    "QtyOnHand": 10,
+    "QtyOnBackOrder": 5,
+    "Description": "Quickly and easily connect to the latest Windows and Mac computers with Rugged’s reversible USB-C cable, or legacy computers using the included USB 3.0 adapter. Confidently tackle any terrain with drop, crush, and rain resistance."
+  },
+  {
+    "Brand": "Miscellaneous Brands",
+    "ProductName": "KESU Portable 160GB",
+    "GraphicName": "KESUPortable.png",
+    "CostPrice": 31.59,
+    "MSRP": 0.00,
+    "QtyOnHand": 3,
+    "QtyOnBackOrder": 1,
+    "Description": "Plug and Play: Without software to install, just plug it in and go. Ultra-fast Data Transfers: Works with USB3.0 and USB2.0 to deliver ultra-fast transfer speeds."
+  },
+  {
+    "Brand": "Miscellaneous Brands",
+    "ProductName": "Maxone Ultra Slim 320GB",
+    "GraphicName": "MaxUltraSlim.png",
+    "CostPrice": 42.59,
+    "MSRP": 0.00,
+    "QtyOnHand": 5,
+    "QtyOnBackOrder": 3,
+    "Description": "Ultra Slim Metal Design: Merely 0.4 inch. All-Aluminum anti-scratch enclosure keeps the external drive running cool and quiet. Eye-catching rose pink decently combines with aluminum finish-style"
+  },
+  {
+    "Brand": "Miscellaneous Brands",
+    "ProductName": "Samsung Portable 250GB",
+    "GraphicName": "SamPortable.png",
+    "CostPrice": 129.99,
+    "MSRP": 0.00,
+    "QtyOnHand": 4,
+    "QtyOnBackOrder": 7,
+    "Description": "Super fast Read-Write speeds of up to 540 MB/s, with Optional password protection and AES 256-bit hardware encryption."
+  }
+  {
+    "Brand": "Miscellaneous Brands",
+    "ProductName": "SanDisk Extreme 250GB",
+    "GraphicName": "SanDiskExtreme.png",
+    "CostPrice": 103.02,
+    "MSRP": 0.00,
+    "QtyOnHand": 8,
+    "QtyOnBackOrder": 14,
+    "Description": "High‐speed transfers with up to 550MB/s read speeds."
+  }
+]
