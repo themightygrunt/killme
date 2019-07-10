@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Brand": "Seagate",
     "ProductName": "Backup Slim Plus 1TB",
@@ -8,7 +8,7 @@
     "QtyOnHand": 40,
     "QtyOnBackOrder": 10,
     "Description": "Looking for an external portable hard drive that’s reliable, stylish, and offers massive capacity? Meet Seagate Backup Plus"
-  }
+  },
   {
     "Brand": "Seagate",
     "ProductName": "Expansion 8TB",
@@ -138,7 +138,7 @@
     "QtyOnHand": 4,
     "QtyOnBackOrder": 7,
     "Description": "Super fast Read-Write speeds of up to 540 MB/s, with Optional password protection and AES 256-bit hardware encryption."
-  }
+  },
   {
     "Brand": "Miscellaneous Brands",
     "ProductName": "SanDisk Extreme 250GB",
